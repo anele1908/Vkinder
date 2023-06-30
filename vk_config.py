@@ -1,0 +1,2 @@
+VK_TOKEN = 'vk1.a.xh73v9PhPpVM0UXQbYoVJkLtBL7aoevlis0uCHqpARSLAucXfBphjdOZlaCDqLcC7mwq1wNiJklt8-RTH8cT-XVcB2HYLHDoPzKc1muzs1Ydd1eBG2QLIiUjrN5P4r8EzqwlixejBWgQthTmwZxEVICaFJjlAJTyHGrSn8o_Mq46RFBiBS16pyODOs4CCGbnVVhIsJg--7t7QSpAEjUlQg'
+DB_NAME = 'vkinder.db'
